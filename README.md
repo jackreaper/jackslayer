@@ -1,3 +1,2 @@
 # jackslayer
-hi i am ew and tryig out github ..
-please help 
+hi i am new and trying out github ..
